@@ -1,4 +1,4 @@
-# Owain Parry
+![Owain](owain.jpg)
 
 Owain is a Research Associate in the Department of Computer Science at the [University of Sheffield](https://www.sheffield.ac.uk/dcs). He received his PhD in 2023 with a thesis on flaky tests titled *Understanding and Mitigating Flaky Software Test Cases*, supervised by [Phil McMinn](https://mcminn.info/). Owain is currently working on the EPSRC-funded Test FLARE (Test Flakiness Automated Reproduction and Explanation) project, which will develop and empirically evaluate techniques capable of automatically reproducing flaky behaviour that is due to the execution environment. It will also provide developers with automated, human-readable explanations to reveal the reasons for the flaky behaviour. Beyond flaky tests, Owain's research interests include: automatic test generation, quantum computing, machine learning, and search-based software engineering.
 
