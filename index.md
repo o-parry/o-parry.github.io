@@ -11,21 +11,21 @@ Owain Parry is a Research Associate in the Department of Computer Science at the
 ### 2023
 
 - O. Parry, G. M. Kapfhammer, M. Hilton, and P. McMinn. Empirically evaluating flaky test detection techniques combining test case rerunning and machine learning
-models. Empirical Software Engineering, 28(72), 2023.
+models. Empirical Software Engineering, 28(72), 2023. ([PDF](papers/2023a.pdf))
 
 ### 2022
 
-- O. Parry, G. M. Kapfhammer, M. Hilton, and P. McMinn. What do developer-repaired flaky tests tell us about the effectiveness of automated flaky test detection? In Proceedings of the International Conference on Automation of Software Test (AST), pages 160–164, 2022.
-- O. Parry, G. M. Kapfhammer, M. Hilton, and P. McMinn. Surveying the developer experience of flaky tests. In Proceedings of the International Conference on Software Engineering: Software Engineering in Practice (ICSE-SEIP), pages 253–262, 2022.
-- O. Parry, G. M. Kapfhammer, M. Hilton, and P. McMinn. Evaluating features for machine learning detection of order- and non-order-dependent flaky tests. In Proceedings of the International Conference on Software Testing, Verification and Validation (ICST), pages 93–104, 2022.
+- O. Parry, G. M. Kapfhammer, M. Hilton, and P. McMinn. What do developer-repaired flaky tests tell us about the effectiveness of automated flaky test detection? In Proceedings of the International Conference on Automation of Software Test (AST), pages 160–164, 2022. ([PDF](papers/2022a.pdf))
+- O. Parry, G. M. Kapfhammer, M. Hilton, and P. McMinn. Surveying the developer experience of flaky tests. In Proceedings of the International Conference on Software Engineering: Software Engineering in Practice (ICSE-SEIP), pages 253–262, 2022. ([PDF](papers/2022b.pdf))
+- O. Parry, G. M. Kapfhammer, M. Hilton, and P. McMinn. Evaluating features for machine learning detection of order- and non-order-dependent flaky tests. In Proceedings of the International Conference on Software Testing, Verification and Validation (ICST), pages 93–104, 2022. ([PDF](papers/2023c.pdf))
 
 ### 2021
 
-- O. Parry, G. M. Kapfhammer, M. Hilton, and P. McMinn. A survey of flaky tests. Transactions on Software Engineering and Methodology, 31(1):1–74, 2021.
+- O. Parry, G. M. Kapfhammer, M. Hilton, and P. McMinn. A survey of flaky tests. Transactions on Software Engineering and Methodology, 31(1):1–74, 2021. ([PDF](papers/2021a.pdf))
 
 ### 2020
 
-- O. Parry, G. M. Kapfhammer, M. Hilton, and P. McMinn. Flake it ‘till you make it: Using automated repair to induce and fix latent test flakiness. In Proceedings of the International Workshop on Automated Program Repair (APR), pages 11–12, 2020.
+- O. Parry, G. M. Kapfhammer, M. Hilton, and P. McMinn. Flake it ‘till you make it: Using automated repair to induce and fix latent test flakiness. In Proceedings of the International Workshop on Automated Program Repair (APR), pages 11–12, 2020. ([PDF](papers/2020a.pdf))
 
 ## Teaching
 
