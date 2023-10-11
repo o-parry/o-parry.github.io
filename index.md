@@ -49,6 +49,8 @@ Throughout his career, Owain has served the software engineering research commun
 
 ## Media Appearances
 
+The work of Owain and his collaborators has been featured on the following media outlets:
+
 - Guest on [Talk Python Podcast](https://talkpython.fm/), episode [Taming Flaky Tests](https://talkpython.fm/episodes/show/429/taming-flaky-tests).
 - Featured on [departmental blog](https://www.sheffield.ac.uk/dcs/news), article [Researchers find new hope through machine learning for dreaded ‘flaky test’](https://www.sheffield.ac.uk/dcs/news/researchers-find-new-hope-through-machine-learning-dreaded-flaky-test).
 - Featured on [Engineering Enablement](https://newsletter.getdx.com/), article [How Flaky Tests Impact Developers](https://newsletter.getdx.com/p/flaky-tests).
