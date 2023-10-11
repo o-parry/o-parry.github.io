@@ -29,7 +29,7 @@ models. Empirical Software Engineering, 28(72), 2023.
 
 ## Teaching
 
-During his time as a PhD student, Owain work as a Graduate Teaching Assistant at the University of Sheffield. His duties included supporting lab sessions, marking assignments, and delivering seminars to undergraduate students on the following modules:
+During his time as a PhD student, Owain worked as a Graduate Teaching Assistant at the University of Sheffield. His duties included supporting lab sessions, marking assignments, and delivering seminars to undergraduate students on the following modules:
 
 - [COM1001 Introduction to Software Engineering](https://www.dcs.shef.ac.uk/intranet/teaching/public/modules/level1/com1001.html)
 - [COM2107 Logic in Computer Science](https://www.dcs.shef.ac.uk/intranet/teaching/public/modules/level2/com2107.html)
@@ -38,7 +38,7 @@ During his time as a PhD student, Owain work as a Graduate Teaching Assistant at
 
 ## Service
 
-Throughout his research career, Owain has served the software engineering research community in the following ways:
+Throughout his career, Owain has served the software engineering research community in the following ways:
 
 - Reviewer for [Software Testing, Verification Reliability](https://onlinelibrary.wiley.com/journal/10991689).
 - Reviewer for [Information and Software Technology](https://www.sciencedirect.com/journal/information-and-software-technology).
