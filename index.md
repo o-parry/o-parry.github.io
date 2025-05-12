@@ -1,12 +1,18 @@
 <p align="center"><img src="owain.jpg" alt="Owain" width="300"/></p>
 
-Owain Parry is a Research Associate in the Department of Computer Science at the [University of Sheffield](https://www.sheffield.ac.uk/dcs). He received his PhD in 2023 with a thesis on flaky tests titled *Understanding and Mitigating Flaky Software Test Cases*, supervised by [Phil McMinn](https://mcminn.info/). Owain is currently working on the EPSRC-funded Test FLARE (Test Flakiness Automated Reproduction and Explanation) project, which will develop and empirically evaluate techniques capable of automatically reproducing flaky behaviour that is due to the execution environment. It will also provide developers with automated, human-readable explanations to reveal the reasons for the flaky behaviour. Beyond flaky tests, Owain's research interests include: automatic test generation, quantum computing, machine learning, and search-based software engineering. ([Contact me](mailto:o.b.parry@sheffield.ac.uk))
+Owain Parry is a Research Associate in the [School of Computer Science at the University of Sheffield](https://www.sheffield.ac.uk/cs). He completed his PhD in 2023 with a thesis titled *Understanding and Mitigating Flaky Software Test Cases*, supervised by [Phil McMinn](https://mcminn.info/). He currently works on the EPSRC-funded project [Test FLARE](https://test-flare.github.io/) (Test Flakiness Automated Reproduction and Explanation), focusing on the automated analysis and reproducibility of flaky tests. His broader research interests include quantum computing, with a particular focus on quantum software engineering, developed through his involvement with the [RoaRQ](https://www.roarq.cs.ox.ac.uk/) (Robust and Reliable Quantum Computing) project. ([Contact me](mailto:o.b.parry@sheffield.ac.uk))
 
 ## Publications
 
+### 2025
+
+- O. Parry and P. McMinn. QAOA-PCA: Enhancing Efficiency in the Quantum Approximate Optimization Algorithm via Principal Component Analysis. In Proceedings of The International Workshop on Empirical Studies for Quantum Software Engineering (E-QSE), to appear, 2025. ([PDF](papers/2025a.pdf))
+
+- O. Parry, G. M. Kapfhammer, M. Hilton, and P. McMinn. Systemic Flakiness: An Empirical Analysis of Co-Occurring Flaky Test Failures. In Proceedings of the International Conference on Evaluation and Assessment in Software Engineering (EASE), to appear, 2025. ([PDF](papers/2025b.pdf))
+
 ### 2024
 
-- M. Gruber, M. F. Roslan, O. Parry, F. Scharnböck, P. McMinn, and G. Fraser. Do Automatic Test Generation Tools Generate Flaky Tests? In Proceedings of the International Conference on Software Engineering (ICSE), to appear, 2024.
+- M. Gruber, M. F. Roslan, O. Parry, F. Scharnböck, P. McMinn, and G. Fraser. Do Automatic Test Generation Tools Generate Flaky Tests? In Proceedings of the International Conference on Software Engineering (ICSE), pages 1–12, 2024. ([PDF](papers/2024a.pdf))
 
 ### 2023
 
@@ -15,9 +21,9 @@ models. Empirical Software Engineering, 28(72), 2023. ([PDF](papers/2023a.pdf))
 
 ### 2022
 
-- O. Parry, G. M. Kapfhammer, M. Hilton, and P. McMinn. What do developer-repaired flaky tests tell us about the effectiveness of automated flaky test detection? In Proceedings of the International Conference on Automation of Software Test (AST), pages 160–164, 2022. ([PDF](papers/2022a.pdf))
-- O. Parry, G. M. Kapfhammer, M. Hilton, and P. McMinn. Surveying the developer experience of flaky tests. In Proceedings of the International Conference on Software Engineering: Software Engineering in Practice (ICSE-SEIP), pages 253–262, 2022. ([PDF](papers/2022b.pdf))
-- O. Parry, G. M. Kapfhammer, M. Hilton, and P. McMinn. Evaluating features for machine learning detection of order- and non-order-dependent flaky tests. In Proceedings of the International Conference on Software Testing, Verification and Validation (ICST), pages 93–104, 2022. ([PDF](papers/2023c.pdf))
+- O. Parry, G. M. Kapfhammer, M. Hilton, and P. McMinn. What Do Developer-Repaired Flaky Tests Tell Us About the Effectiveness of Automated Flaky Test Detection? In Proceedings of the International Conference on Automation of Software Test (AST), pages 160–164, 2022. ([PDF](papers/2022a.pdf))
+- O. Parry, G. M. Kapfhammer, M. Hilton, and P. McMinn. Surveying the Developer Experience of Flaky Tests. In Proceedings of the International Conference on Software Engineering: Software Engineering in Practice (ICSE-SEIP), pages 253–262, 2022. ([PDF](papers/2022b.pdf))
+- O. Parry, G. M. Kapfhammer, M. Hilton, and P. McMinn. Evaluating Features for Machine Learning Detection of Order- and Non-Order-Dependent Flaky Tests. In Proceedings of the International Conference on Software Testing, Verification and Validation (ICST), pages 93–104, 2022. ([PDF](papers/2022c.pdf))
 
 ### 2021
 
@@ -40,12 +46,14 @@ During his time as a PhD student, Owain worked as a Graduate Teaching Assistant 
 
 Throughout his career, Owain has served the software engineering research community in the following ways:
 
-- Reviewer for [Software Testing, Verification Reliability](https://onlinelibrary.wiley.com/journal/10991689).
 - Reviewer for [Information and Software Technology](https://www.sciencedirect.com/journal/information-and-software-technology).
-- Student volunteer at the [International Conference on Software Engineering 2022](https://conf.researchr.org/home/icse-2022).
-- Student volunteer at the [International Conference on Software Testing, Verification and Validation 2023](https://conf.researchr.org/home/icst-2023).
-- Session chair at the [International Conference on Automation of Software Test 2022](https://conf.researchr.org/home/ast-2022).
-- Program committee chair for the [International Flaky Tests Workshop 2024](https://conf.researchr.org/home/icse-2024/ftw-2024).
+- Reviewer for [Software Testing, Verification Reliability](https://onlinelibrary.wiley.com/journal/10991689).
+- Reviewer for [Transactions on Software Engineering](https://www.computer.org/csdl/journal/ts).
+- Student volunteer for the [International Conference on Software Engineering 2022](https://conf.researchr.org/home/icse-2022).
+- Student volunteer for the [International Conference on Software Testing, Verification and Validation 2023](https://conf.researchr.org/home/icst-2023).
+- Session chair for the [International Conference on Automation of Software Test 2022](https://conf.researchr.org/home/ast-2022).
+- Co-organiser for the [International Flaky Tests Workshop 2024](https://conf.researchr.org/home/icse-2024/ftw-2024).
+- Co-organiser for the [International Flaky Tests Workshop 2025](https://conf.researchr.org/home/icse-2025/ftw-2025).
 
 ## Media Appearances
 
