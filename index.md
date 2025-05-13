@@ -1,6 +1,6 @@
 <p align="center"><img src="owain.jpg" alt="Owain" width="300"/></p>
 
-Owain Parry is a Research Associate in the [School of Computer Science at the University of Sheffield](https://www.sheffield.ac.uk/cs). He completed his PhD in 2023 with a thesis titled *Understanding and Mitigating Flaky Software Test Cases*, supervised by [Phil McMinn](https://mcminn.info/). He currently works on the EPSRC-funded project [Test FLARE](https://test-flare.github.io/) (Test Flakiness Automated Reproduction and Explanation), focusing on the automated analysis and reproducibility of flaky tests. His broader research interests include quantum computing, with a particular focus on quantum software engineering, developed through his involvement with the [RoaRQ](https://www.roarq.cs.ox.ac.uk/) (Robust and Reliable Quantum Computing) project. ([Contact me](mailto:o.b.parry@sheffield.ac.uk))
+Hi, I'm Owain Parry. I am a Research Associate at the [School of Computer Science at the University of Sheffield](https://www.sheffield.ac.uk/cs). I completed my PhD in 2023 with a thesis titled *Understanding and Mitigating Flaky Software Test Cases*, supervised by [Phil McMinn](https://mcminn.info/). I currently work on the EPSRC-funded project [Test FLARE](https://test-flare.github.io/) (Test Flakiness Automated Reproduction and Explanation), focusing on the automated analysis and reproducibility of flaky tests. My broader research interests include quantum computing, with a particular focus on quantum software engineering, developed through my involvement with the [RoaRQ](https://www.roarq.cs.ox.ac.uk/) (Robust and Reliable Quantum Computing) project. ([Email me](mailto:o.b.parry@sheffield.ac.uk))
 
 ## Publications
 
@@ -35,7 +35,7 @@ models. Empirical Software Engineering, 28(72), 2023. ([PDF](papers/2023a.pdf))
 
 ## Teaching
 
-During his time as a PhD student, Owain worked as a Graduate Teaching Assistant at the University of Sheffield. His duties included supporting lab sessions, marking assignments, and delivering seminars to undergraduate students on the following modules:
+During my time as a PhD student, I worked as a Graduate Teaching Assistant at the University of Sheffield. My duties included supporting lab sessions, marking assignments, and delivering seminars to undergraduate students on the following modules:
 
 - [COM1001 Introduction to Software Engineering](https://www.dcs.shef.ac.uk/intranet/teaching/public/modules/level1/com1001.html)
 - [COM2107 Logic in Computer Science](https://www.dcs.shef.ac.uk/intranet/teaching/public/modules/level2/com2107.html)
@@ -44,7 +44,7 @@ During his time as a PhD student, Owain worked as a Graduate Teaching Assistant 
 
 ## Service
 
-Throughout his career, Owain has served the software engineering research community in the following ways:
+Throughout my career, I have served the software engineering research community in the following ways:
 
 - Reviewer for [Information and Software Technology](https://www.sciencedirect.com/journal/information-and-software-technology).
 - Reviewer for [Software Testing, Verification Reliability](https://onlinelibrary.wiley.com/journal/10991689).
@@ -57,7 +57,7 @@ Throughout his career, Owain has served the software engineering research commun
 
 ## Media Appearances
 
-The work of Owain and his collaborators has been featured on the following media outlets:
+The work of myself and my collaborators has been featured on the following media outlets:
 
 - Guest on [Talk Python Podcast](https://talkpython.fm/), episode [Taming Flaky Tests](https://talkpython.fm/episodes/show/429/taming-flaky-tests).
 - Featured on [departmental blog](https://www.sheffield.ac.uk/dcs/news), article [Researchers find new hope through machine learning for dreaded ‘flaky test’](https://www.sheffield.ac.uk/dcs/news/researchers-find-new-hope-through-machine-learning-dreaded-flaky-test).
