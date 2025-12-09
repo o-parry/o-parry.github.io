@@ -1,6 +1,6 @@
 <p align="center"><img src="owain.jpg" alt="Owain" width="300"/></p>
 
-Hi, I'm Owain Parry, a Research Associate at the [School of Computer Science at the University of Sheffield](https://www.sheffield.ac.uk/cs). I completed my PhD in 2023 with a thesis titled [Understanding and Mitigating Flaky Software Test Cases](https://etheses.whiterose.ac.uk/id/eprint/33698/). I currently work on the EPSRC-funded project [Test FLARE](https://test-flare.github.io/) (Test FLakiness Automated Reproduction and Explanation), focusing on the automated analysis of flaky tests. My broader research interests include quantum computing, with a particular focus on quantum software engineering, developed through my involvement with the [RoaRQ](https://www.roarq.cs.ox.ac.uk/) (Robust and Reliable Quantum Computing) programme. ([Email me](mailto:o.b.parry@sheffield.ac.uk))
+Hi, I'm Owain Parry, a Research Associate in the [AI x Software Engineering & Testing (ASET) group](https://sheffield.ac.uk/cs/research/groups/testing) within the School of Computer Science at the University of Sheffield. I completed my PhD in 2023 with a thesis titled [Understanding and Mitigating Flaky Software Test Cases](https://etheses.whiterose.ac.uk/id/eprint/33698/). I currently work on the EPSRC-funded project [Test FLARE](https://test-flare.github.io/) (Test FLakiness Automated Reproduction and Explanation), focusing on the automated analysis of flaky tests. My broader research interests include quantum computing, with a particular focus on quantum software engineering, developed through my involvement with the [RoaRQ](https://www.roarq.cs.ox.ac.uk/) (Robust and Reliable Quantum Computing) programme. ([Email me](mailto:o.b.parry@sheffield.ac.uk))
 
 ## Publications
 
@@ -45,7 +45,7 @@ During my time as a PhD student, I worked as a Graduate Teaching Assistant at th
 - [COM2109 Automata, Computation and Complexity](https://www.dcs.shef.ac.uk/intranet/teaching/public/modules/level2/com2109.html)
 - [COM3529 Software Testing and Analysis](https://www.dcs.shef.ac.uk/intranet/teaching/public/modules/level3/com3529.html)
 
-In 2025, my teaching practice was recognised with the award of [Associate Fellow of the Higher Education Academy](https://www.advance-he.ac.uk/fellowship/associate-fellowship).
+In 2025, my teaching practice was recognised with the award of [Associate Fellowship of the Higher Education Academy](https://www.advance-he.ac.uk/fellowship/associate-fellowship).
 
 ## Service
 
