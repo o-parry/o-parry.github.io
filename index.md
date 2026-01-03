@@ -10,8 +10,8 @@ Hi, I'm Owain Parry, a Research Associate in the [AI x Software Engineering & Te
 
 ### 2025
 
-- O. Parry and P. McMinn. QAOA-PCA: Enhancing Efficiency in the Quantum Approximate Optimization Algorithm via Principal Component Analysis. In Proceedings of The International Workshop on Empirical Studies for Quantum Software Engineering (E-QSE), to appear, 2025. ([PDF](papers/2025a.pdf))
-- O. Parry, G. M. Kapfhammer, M. Hilton, and P. McMinn. Systemic Flakiness: An Empirical Analysis of Co-Occurring Flaky Test Failures. In Proceedings of the International Conference on Evaluation and Assessment in Software Engineering (EASE), to appear, 2025. ([PDF](papers/2025b.pdf))
+- O. Parry and P. McMinn. QAOA-PCA: Enhancing Efficiency in the Quantum Approximate Optimization Algorithm via Principal Component Analysis. In Proceedings of the International Conference on Evaluation and Assessment in Software Engineering Companion (EASE Companion), pages 61–66, 2025. ([PDF](papers/2025a.pdf))
+- O. Parry, G. M. Kapfhammer, M. Hilton, and P. McMinn. Systemic Flakiness: An Empirical Analysis of Co-Occurring Flaky Test Failures. In Proceedings of the International Conference on Evaluation and Assessment in Software Engineering (EASE), pages 476–487, 2025. ([PDF](papers/2025b.pdf))
 
 ### 2024
 
@@ -19,8 +19,7 @@ Hi, I'm Owain Parry, a Research Associate in the [AI x Software Engineering & Te
 
 ### 2023
 
-- O. Parry, G. M. Kapfhammer, M. Hilton, and P. McMinn. Empirically evaluating flaky test detection techniques combining test case rerunning and machine learning
-models. Empirical Software Engineering, 28(72), 2023. ([PDF](papers/2023a.pdf))
+- O. Parry, G. M. Kapfhammer, M. Hilton, and P. McMinn. Empirically Evaluating Flaky Test Detection Techniques Combining Test Case Rerunning and Machine Learning Models. Empirical Software Engineering, 28(72), 2023. ([PDF](papers/2023a.pdf))
 
 ### 2022
 
@@ -30,11 +29,11 @@ models. Empirical Software Engineering, 28(72), 2023. ([PDF](papers/2023a.pdf))
 
 ### 2021
 
-- O. Parry, G. M. Kapfhammer, M. Hilton, and P. McMinn. A survey of flaky tests. Transactions on Software Engineering and Methodology, 31(1):1–74, 2021. ([PDF](papers/2021a.pdf))
+- O. Parry, G. M. Kapfhammer, M. Hilton, and P. McMinn. A Survey of Flaky Tests. Transactions on Software Engineering and Methodology, 31(1), 2021. ([PDF](papers/2021a.pdf))
 
 ### 2020
 
-- O. Parry, G. M. Kapfhammer, M. Hilton, and P. McMinn. Flake it ‘till you make it: Using automated repair to induce and fix latent test flakiness. In Proceedings of the International Workshop on Automated Program Repair (APR), pages 11–12, 2020. ([PDF](papers/2020a.pdf))
+- O. Parry, G. M. Kapfhammer, M. Hilton, and P. McMinn. Flake It 'Till You Make It: Using Automated Repair to Induce and Fix Latent Test Flakiness. In Proceedings of the International Conference on Software Engineering Workshops (ICSEW), pages 11–12, 2020. ([PDF](papers/2020a.pdf))
 
 ## Teaching
 
