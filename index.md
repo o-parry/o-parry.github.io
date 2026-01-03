@@ -50,7 +50,7 @@ In 2025, my teaching practice was recognised with the award of [Associate Fellow
 
 Throughout my career, I have served the software engineering research community in the following ways:
 
-- Guest Editor for [Flaky Tests and Beyond: Confronting Non-Determinism in Automated Testing](https://link.springer.com/collections/djgdjjdcch).
+- Guest editor for [Flaky Tests and Beyond: Confronting Non-Determinism in Automated Testing](https://link.springer.com/collections/djgdjjdcch).
 - Organising committee member for [International Flaky Tests Workshop 2024](https://conf.researchr.org/home/icse-2024/ftw-2024).
 - Organising committee member for [International Flaky Tests Workshop 2025](https://conf.researchr.org/home/icse-2025/ftw-2025).
 - Reviewer for [Information and Software Technology](https://www.sciencedirect.com/journal/information-and-software-technology).
