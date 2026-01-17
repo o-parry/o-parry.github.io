@@ -29,7 +29,7 @@ Hi, I'm Owain Parry, a Research Associate in the [AI x Software Engineering & Te
 
 ### 2021
 
-- O. Parry, G. M. Kapfhammer, M. Hilton, and P. McMinn. A Survey of Flaky Tests. Transactions on Software Engineering and Methodology, 31(1), 2021. ([PDF](papers/2021a.pdf))
+- O. Parry, G. M. Kapfhammer, M. Hilton, and P. McMinn. A Survey of Flaky Tests. ACM Transactions on Software Engineering and Methodology, 31(1), 2021. ([PDF](papers/2021a.pdf))
 
 ### 2020
 
