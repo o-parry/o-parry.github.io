@@ -1,8 +1,8 @@
 <p align="center"><img src="owain.jpg" alt="Owain" width="300"/></p>
 
-Hi, I'm Owain Parry, a Research Associate in the [AI x Software Engineering & Testing (ASET) group](https://sheffield.ac.uk/cs/research/groups/testing) within the School of Computer Science at the University of Sheffield. I completed my PhD in 2023 with a thesis titled [Understanding and Mitigating Flaky Software Test Cases](https://etheses.whiterose.ac.uk/id/eprint/33698/). I currently work on the EPSRC-funded project [Test FLARE](https://test-flare.github.io/) (Test FLakiness Automated Reproduction and Explanation), focusing on the automated analysis of flaky tests. My broader research interests include quantum computing, with a particular focus on quantum software engineering, developed through my involvement with the [RoaRQ](https://www.roarq.cs.ox.ac.uk/) (Robust and Reliable Quantum Computing) programme. ([Email me](mailto:o.b.parry@sheffield.ac.uk))
+Hi, I'm Owain Parry, a Research Associate in the [School of Informatics](https://informatics.ed.ac.uk/) at the University of Edinburgh. I currently work on LLM-based code translation from C to Rust. Prior to that, I worked on [Test FLARE](https://test-flare.github.io/) (Test FLakiness Automated Reproduction and Explanation), a project focused on the automated analysis of flaky tests. My broader research interests include quantum computing, with a particular focus on quantum software engineering, developed through my involvement with [RoaRQ](https://www.roarq.cs.ox.ac.uk/) (Robust and Reliable Quantum Computing). ([Email me](mailto:oparry2@ed.ac.uk))
 
-## Publications
+## Research
 
 ### 2026
 
@@ -48,25 +48,19 @@ In 2025, my teaching practice was recognised with the award of [Associate Fellow
 
 ## Service
 
-Throughout my career, I have served the software engineering research community in the following ways:
-
 - Guest editor for [Flaky Tests and Beyond: Confronting Non-Determinism in Automated Testing](https://link.springer.com/collections/djgdjjdcch).
-- Organising committee member for [International Flaky Tests Workshop 2024](https://conf.researchr.org/home/icse-2024/ftw-2024).
-- Organising committee member for [International Flaky Tests Workshop 2025](https://conf.researchr.org/home/icse-2025/ftw-2025).
-- Reviewer for [Information and Software Technology](https://www.sciencedirect.com/journal/information-and-software-technology).
-- Reviewer for [Journal of Systems and Software](https://www.sciencedirect.com/journal/journal-of-systems-and-software).
-- Reviewer for [Science of Computer Programming](https://www.sciencedirect.com/journal/science-of-computer-programming).
-- Reviewer for [Software Testing, Verification Reliability](https://onlinelibrary.wiley.com/journal/10991689).
-- Reviewer for [Transactions on Software Engineering](https://www.computer.org/csdl/journal/ts).
+- Organising committee member for
+  - [International Flaky Tests Workshop 2024](https://conf.researchr.org/home/icse-2024/ftw-2024).
+  - [International Flaky Tests Workshop 2025](https://conf.researchr.org/home/icse-2025/ftw-2025).
+- Program committee member for [International Conference on Automated Software Engineering 2026](https://conf.researchr.org/home/ase-2026).
+- Reviewer for
+  - [Information and Software Technology](https://www.sciencedirect.com/journal/information-and-software-technology).
+  - [Journal of Systems and Software](https://www.sciencedirect.com/journal/journal-of-systems-and-software).
+  - [Science of Computer Programming](https://www.sciencedirect.com/journal/science-of-computer-programming).
+  - [Software Testing, Verification Reliability](https://onlinelibrary.wiley.com/journal/10991689).
+  - [Transactions on Software Engineering](https://www.computer.org/csdl/journal/ts).
 - Session chair for [International Conference on Automation of Software Test 2022](https://conf.researchr.org/home/ast-2022).
 - Steering committee member for [International Flaky Tests Workshop 2026](https://conf.researchr.org/home/icse-2026/ftw-2026).
-- Student volunteer for [International Conference on Software Engineering 2022](https://conf.researchr.org/home/icse-2022).
-- Student volunteer for [International Conference on Software Testing, Verification and Validation 2023](https://conf.researchr.org/home/icst-2023).
-  
-## Media Appearances
-
-The work of myself and my collaborators has been featured on the following media outlets:
-
-- Featured on [Engineering Enablement](https://newsletter.getdx.com/), article [How Flaky Tests Impact Developers](https://newsletter.getdx.com/p/flaky-tests).
-- Featured on [School of Computer Science blog](https://sheffield.ac.uk/cs/news), article [Researchers find new hope through machine learning for dreaded ‘flaky test’](https://sheffield.ac.uk/cs/news/researchers-find-new-hope-through-machine-learning-dreaded-flaky-test).
-- Guest on [Talk Python To Me](https://talkpython.fm/), episode [Taming Flaky Tests](https://talkpython.fm/episodes/show/429/taming-flaky-tests).
+- Student volunteer for
+  - [International Conference on Software Engineering 2022](https://conf.researchr.org/home/icse-2022).
+  - [International Conference on Software Testing, Verification and Validation 2023](https://conf.researchr.org/home/icst-2023).
