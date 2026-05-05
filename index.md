@@ -49,18 +49,15 @@ In 2025, my teaching practice was recognised with the award of [Associate Fellow
 ## Service
 
 - Guest editor for [Flaky Tests and Beyond: Confronting Non-Determinism in Automated Testing](https://link.springer.com/collections/djgdjjdcch).
-- Organising committee member for
-  - [International Flaky Tests Workshop 2024](https://conf.researchr.org/home/icse-2024/ftw-2024).
-  - [International Flaky Tests Workshop 2025](https://conf.researchr.org/home/icse-2025/ftw-2025).
+- Organising committee member for [International Flaky Tests Workshop 2024](https://conf.researchr.org/home/icse-2024/ftw-2024).
+- Organising committee member for [International Flaky Tests Workshop 2025](https://conf.researchr.org/home/icse-2025/ftw-2025).
 - Program committee member for [International Conference on Automated Software Engineering 2026](https://conf.researchr.org/home/ase-2026).
-- Reviewer for
-  - [Information and Software Technology](https://www.sciencedirect.com/journal/information-and-software-technology).
-  - [Journal of Systems and Software](https://www.sciencedirect.com/journal/journal-of-systems-and-software).
-  - [Science of Computer Programming](https://www.sciencedirect.com/journal/science-of-computer-programming).
-  - [Software Testing, Verification Reliability](https://onlinelibrary.wiley.com/journal/10991689).
-  - [Transactions on Software Engineering](https://www.computer.org/csdl/journal/ts).
+- Reviewer for [Information and Software Technology](https://www.sciencedirect.com/journal/information-and-software-technology).
+- Reviewer for [Journal of Systems and Software](https://www.sciencedirect.com/journal/journal-of-systems-and-software).
+- Reviewer for [Science of Computer Programming](https://www.sciencedirect.com/journal/science-of-computer-programming).
+- Reviewer for [Software Testing, Verification Reliability](https://onlinelibrary.wiley.com/journal/10991689).
+- Reviewer for [Transactions on Software Engineering](https://www.computer.org/csdl/journal/ts).
 - Session chair for [International Conference on Automation of Software Test 2022](https://conf.researchr.org/home/ast-2022).
 - Steering committee member for [International Flaky Tests Workshop 2026](https://conf.researchr.org/home/icse-2026/ftw-2026).
-- Student volunteer for
-  - [International Conference on Software Engineering 2022](https://conf.researchr.org/home/icse-2022).
-  - [International Conference on Software Testing, Verification and Validation 2023](https://conf.researchr.org/home/icst-2023).
+- Student volunteer for [International Conference on Software Engineering 2022](https://conf.researchr.org/home/icse-2022).
+- Student volunteer for [International Conference on Software Testing, Verification and Validation 2023](https://conf.researchr.org/home/icst-2023).
