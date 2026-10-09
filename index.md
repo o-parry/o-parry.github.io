@@ -52,6 +52,7 @@ In 2025, my teaching practice was recognised with the award of [Associate Fellow
 - Organising committee member for [International Flaky Tests Workshop 2024](https://conf.researchr.org/home/icse-2024/ftw-2024).
 - Organising committee member for [International Flaky Tests Workshop 2025](https://conf.researchr.org/home/icse-2025/ftw-2025).
 - Program committee member for [International Conference on Automated Software Engineering 2026](https://conf.researchr.org/home/ase-2026).
+- Program committee member for [International Conference on Software Engineering and Formal Methods 2026](https://sefm-conference.github.io/2026/).
 - Reviewer for [Information and Software Technology](https://www.sciencedirect.com/journal/information-and-software-technology).
 - Reviewer for [Journal of Systems and Software](https://www.sciencedirect.com/journal/journal-of-systems-and-software).
 - Reviewer for [Science of Computer Programming](https://www.sciencedirect.com/journal/science-of-computer-programming).
